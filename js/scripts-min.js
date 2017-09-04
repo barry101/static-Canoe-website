@@ -1,0 +1,1 @@
+var visitor=prompt("what is your name?"),message="hello "+visitor;document.write(message);
